@@ -9,8 +9,9 @@ Development on this project has not yet begun.
 It will be written in either `C++` or `Rust`,
 with possible use of `javascript` or `python` should community driven plugins be enabled.
 
+Not even the name of the app/project has been decided upon yet.
 Therefore, the best time to hop on the bandwagon and put your mark on it now.
-Head to the Wiki for ideas.
+Head to the [Wiki] for ideas.
 
 ## Changelog
 
@@ -47,7 +48,7 @@ Copyright 2014 Mazdak Farrokhzad.
 
 [open-spotlight]: https://github.com/centril/open-spotlight
 
-[grunt]: http://gruntjs.com/
+[Wiki]: https://github.com/Centril/open-spotlight/wiki/
 
 [twitter]: http://twitter.com/CenoRIX
 [github]: http://github.com/centril
